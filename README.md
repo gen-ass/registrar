@@ -1,4 +1,5 @@
 ![](https://github.com/gen-ass/registrar/blob/master/UJ-registrar_Page_1.jpg)
+![](https://github.com/gen-ass/registrar/blob/master/UJ-registrar_Page_2.jpg)
 
 # Registrar
 A unit within the University was in need for a simplified site layout. The purpose was to address finding content when the user wanted to apply for studies. 
